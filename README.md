@@ -1,0 +1,1 @@
+Ultra Early State of my HomeMade App Mi11UltraRearScreen ! My objective is to make a standalone app for the xiaomi 11 ultra rear screen, also trying to make it work on roms where there isnt the reardisplay system app (such as HyperOs 3 or ColorOS 16)
